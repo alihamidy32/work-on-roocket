@@ -75,13 +75,13 @@ export default {
 
 <style scoped>
 .part-two{
-  width: 100%;
-  height: 24.5rem;
+  height: auto;
   padding: 1rem 0 2rem;
   background-color: #334155;
 }
 .container-two{
-  margin: 0 1.8rem;
+  max-width: 95rem;
+  margin: auto;
   padding: 0 2rem;
   display: flex;
   flex-direction: column;
@@ -136,5 +136,22 @@ h3{
 #last-titr a{
   color: white;
   font-size: large;
+}
+
+
+@media screen and (max-width:69.125rem){
+  .cards-container{
+  display: grid;
+  grid-template-columns: repeat(2,minmax(0,1fr));
+  gap: 1rem;
+}
+}
+
+@media screen and (max-width:50.125rem){
+  .cards-container{
+  display: grid;
+  grid-template-columns: repeat(1,minmax(0,1fr));
+  gap: 1rem;
+}
 }
 </style>
