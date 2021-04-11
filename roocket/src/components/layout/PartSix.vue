@@ -31,7 +31,7 @@
               در حال حاضر اینترنت و استفاده از ابزارهای کامپیوتری هر روز در حال گسترش است و افراد بسیار زیادی با این ابزارها در حال کار هستند.
               </p>
               <div class="button-container">
-                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 125" style="enable-background:new 0 0 100 100;" xml:space="preserve"><path d="M83.2228775,38.9948845c1.5066528-1.5232468,1.9216995-3.7852898,1.1414032-5.7567863  c-0.8259659-1.9673462-2.7476578-3.2415543-4.889328-3.2415543l-58.9499245-0.0000057  c-2.1292267,0-4.0509205,1.2700615-4.8644238,3.2415524c-0.8300962,1.971508-0.3776999,4.2335434,1.1413994,5.7567863  l29.4770451,29.4770393c2.0669708,2.0420609,5.3998299,2.0420609,7.4667969,0L83.2228775,38.9948845z"/><text x="0" y="115" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text><text x="0" y="120" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text></svg>
+                <svg class="z-6" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 125" style="enable-background:new 0 0 100 100;" xml:space="preserve"><path d="M83.2228775,38.9948845c1.5066528-1.5232468,1.9216995-3.7852898,1.1414032-5.7567863  c-0.8259659-1.9673462-2.7476578-3.2415543-4.889328-3.2415543l-58.9499245-0.0000057  c-2.1292267,0-4.0509205,1.2700615-4.8644238,3.2415524c-0.8300962,1.971508-0.3776999,4.2335434,1.1413994,5.7567863  l29.4770451,29.4770393c2.0669708,2.0420609,5.3998299,2.0420609,7.4667969,0L83.2228775,38.9948845z"/><text x="0" y="115" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text><text x="0" y="120" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text></svg>
                 <span class="look">
                   مشاهده ادامه مطالب
                 </span>
@@ -83,10 +83,10 @@
                   چرا یک برنامه نویس شویم؟
                 </strong>
                 <span class="downward">
-                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 125" style="enable-background:new 0 0 100 100;" xml:space="preserve"><g><path d="M84.1,34.9c0-1-0.4-1.9-1.1-2.7c-1.5-1.5-3.9-1.5-5.3,0L50,59.9L22.4,32.3c-1.5-1.5-3.9-1.5-5.3,0c-1.5,1.5-1.5,3.9,0,5.3   l30.3,30.3c1.5,1.5,3.9,1.5,5.3,0L83,37.6C83.7,36.9,84.1,35.9,84.1,34.9z"/></g><text x="0" y="115" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text><text x="0" y="120" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text></svg>
+                  <svg class="z-5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 125" style="enable-background:new 0 0 100 100;" xml:space="preserve"><g><path d="M84.1,34.9c0-1-0.4-1.9-1.1-2.7c-1.5-1.5-3.9-1.5-5.3,0L50,59.9L22.4,32.3c-1.5-1.5-3.9-1.5-5.3,0c-1.5,1.5-1.5,3.9,0,5.3   l30.3,30.3c1.5,1.5,3.9,1.5,5.3,0L83,37.6C83.7,36.9,84.1,35.9,84.1,34.9z"/></g><text x="0" y="115" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text><text x="0" y="120" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text></svg>
                 </span>
                 <span class="upward">
-                  <svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 96 120" x="0px" y="0px"><title>arrowsArtboard 74</title><path d="M23.24,66.24,48,41.49,72.76,66.24a6,6,0,0,0,8.48-8.48l-29-29a6,6,0,0,0-8.48,0l-29,29a6,6,0,0,0,8.48,8.48Z"/><text x="0" y="111" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text><text x="0" y="116" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text></svg>
+                  <svg class="z-5" xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 96 120" x="0px" y="0px"><title>arrowsArtboard 74</title><path d="M23.24,66.24,48,41.49,72.76,66.24a6,6,0,0,0,8.48-8.48l-29-29a6,6,0,0,0-8.48,0l-29,29a6,6,0,0,0,8.48,8.48Z"/><text x="0" y="111" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text><text x="0" y="116" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text></svg>
                 </span>
               </div>
               <div class="border-content">
@@ -104,10 +104,10 @@
                  آیا یادگیری برنامه نویسی ارزش‌اش را دارد؟
                 </strong>
                 <span class="downward">
-                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 125" style="enable-background:new 0 0 100 100;" xml:space="preserve"><g><path d="M84.1,34.9c0-1-0.4-1.9-1.1-2.7c-1.5-1.5-3.9-1.5-5.3,0L50,59.9L22.4,32.3c-1.5-1.5-3.9-1.5-5.3,0c-1.5,1.5-1.5,3.9,0,5.3   l30.3,30.3c1.5,1.5,3.9,1.5,5.3,0L83,37.6C83.7,36.9,84.1,35.9,84.1,34.9z"/></g><text x="0" y="115" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text><text x="0" y="120" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text></svg>
+                  <svg  class="z-5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 125" style="enable-background:new 0 0 100 100;" xml:space="preserve"><g><path d="M84.1,34.9c0-1-0.4-1.9-1.1-2.7c-1.5-1.5-3.9-1.5-5.3,0L50,59.9L22.4,32.3c-1.5-1.5-3.9-1.5-5.3,0c-1.5,1.5-1.5,3.9,0,5.3   l30.3,30.3c1.5,1.5,3.9,1.5,5.3,0L83,37.6C83.7,36.9,84.1,35.9,84.1,34.9z"/></g><text x="0" y="115" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text><text x="0" y="120" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text></svg>
                 </span>
                 <span class="upward">
-                  <svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 96 120" x="0px" y="0px"><title>arrowsArtboard 74</title><path d="M23.24,66.24,48,41.49,72.76,66.24a6,6,0,0,0,8.48-8.48l-29-29a6,6,0,0,0-8.48,0l-29,29a6,6,0,0,0,8.48,8.48Z"/><text x="0" y="111" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text><text x="0" y="116" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text></svg>
+                  <svg class="z-5" xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 96 120" x="0px" y="0px"><title>arrowsArtboard 74</title><path d="M23.24,66.24,48,41.49,72.76,66.24a6,6,0,0,0,8.48-8.48l-29-29a6,6,0,0,0-8.48,0l-29,29a6,6,0,0,0,8.48,8.48Z"/><text x="0" y="111" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text><text x="0" y="116" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text></svg>
                 </span>
               </div>
               <div class="border-content">
@@ -128,10 +128,10 @@
                  آموزش برنامه نویسی چقدر زمان میبرد؟
                 </strong>
                 <span class="downward">
-                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 125" style="enable-background:new 0 0 100 100;" xml:space="preserve"><g><path d="M84.1,34.9c0-1-0.4-1.9-1.1-2.7c-1.5-1.5-3.9-1.5-5.3,0L50,59.9L22.4,32.3c-1.5-1.5-3.9-1.5-5.3,0c-1.5,1.5-1.5,3.9,0,5.3   l30.3,30.3c1.5,1.5,3.9,1.5,5.3,0L83,37.6C83.7,36.9,84.1,35.9,84.1,34.9z"/></g><text x="0" y="115" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text><text x="0" y="120" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text></svg>
+                  <svg class="z-5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 125" style="enable-background:new 0 0 100 100;" xml:space="preserve"><g><path d="M84.1,34.9c0-1-0.4-1.9-1.1-2.7c-1.5-1.5-3.9-1.5-5.3,0L50,59.9L22.4,32.3c-1.5-1.5-3.9-1.5-5.3,0c-1.5,1.5-1.5,3.9,0,5.3   l30.3,30.3c1.5,1.5,3.9,1.5,5.3,0L83,37.6C83.7,36.9,84.1,35.9,84.1,34.9z"/></g><text x="0" y="115" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text><text x="0" y="120" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text></svg>
                 </span>
                 <span class="upward">
-                  <svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 96 120" x="0px" y="0px"><title>arrowsArtboard 74</title><path d="M23.24,66.24,48,41.49,72.76,66.24a6,6,0,0,0,8.48-8.48l-29-29a6,6,0,0,0-8.48,0l-29,29a6,6,0,0,0,8.48,8.48Z"/><text x="0" y="111" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text><text x="0" y="116" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text></svg>
+                  <svg class="z-5" xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 96 120" x="0px" y="0px"><title>arrowsArtboard 74</title><path d="M23.24,66.24,48,41.49,72.76,66.24a6,6,0,0,0,8.48-8.48l-29-29a6,6,0,0,0-8.48,0l-29,29a6,6,0,0,0,8.48,8.48Z"/><text x="0" y="111" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text><text x="0" y="116" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text></svg>
                 </span>
               </div>
               <div class="border-content">
@@ -149,10 +149,10 @@
                  آیا برنامه نویسی درآمد خوبی دارد؟
                 </strong>
                 <span class="downward">
-                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 125" style="enable-background:new 0 0 100 100;" xml:space="preserve"><g><path d="M84.1,34.9c0-1-0.4-1.9-1.1-2.7c-1.5-1.5-3.9-1.5-5.3,0L50,59.9L22.4,32.3c-1.5-1.5-3.9-1.5-5.3,0c-1.5,1.5-1.5,3.9,0,5.3   l30.3,30.3c1.5,1.5,3.9,1.5,5.3,0L83,37.6C83.7,36.9,84.1,35.9,84.1,34.9z"/></g><text x="0" y="115" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text><text x="0" y="120" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text></svg>
+                  <svg class="z-5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 125" style="enable-background:new 0 0 100 100;" xml:space="preserve"><g><path d="M84.1,34.9c0-1-0.4-1.9-1.1-2.7c-1.5-1.5-3.9-1.5-5.3,0L50,59.9L22.4,32.3c-1.5-1.5-3.9-1.5-5.3,0c-1.5,1.5-1.5,3.9,0,5.3   l30.3,30.3c1.5,1.5,3.9,1.5,5.3,0L83,37.6C83.7,36.9,84.1,35.9,84.1,34.9z"/></g><text x="0" y="115" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text><text x="0" y="120" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text></svg>
                 </span>
                 <span class="upward">
-                  <svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 96 120" x="0px" y="0px"><title>arrowsArtboard 74</title><path d="M23.24,66.24,48,41.49,72.76,66.24a6,6,0,0,0,8.48-8.48l-29-29a6,6,0,0,0-8.48,0l-29,29a6,6,0,0,0,8.48,8.48Z"/><text x="0" y="111" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text><text x="0" y="116" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text></svg>
+                  <svg class="z-5" xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 96 120" x="0px" y="0px"><title>arrowsArtboard 74</title><path d="M23.24,66.24,48,41.49,72.76,66.24a6,6,0,0,0,8.48-8.48l-29-29a6,6,0,0,0-8.48,0l-29,29a6,6,0,0,0,8.48,8.48Z"/><text x="0" y="111" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text><text x="0" y="116" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text></svg>
                 </span>
               </div>
               <div class="border-content">
@@ -173,10 +173,10 @@
                   از کجا برنامه‌ نویسی را شروع کنیم؟
                 </strong>
                 <span class="downward">
-                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 125" style="enable-background:new 0 0 100 100;" xml:space="preserve"><g><path d="M84.1,34.9c0-1-0.4-1.9-1.1-2.7c-1.5-1.5-3.9-1.5-5.3,0L50,59.9L22.4,32.3c-1.5-1.5-3.9-1.5-5.3,0c-1.5,1.5-1.5,3.9,0,5.3   l30.3,30.3c1.5,1.5,3.9,1.5,5.3,0L83,37.6C83.7,36.9,84.1,35.9,84.1,34.9z"/></g><text x="0" y="115" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text><text x="0" y="120" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text></svg>
+                  <svg class="z-5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 125" style="enable-background:new 0 0 100 100;" xml:space="preserve"><g><path d="M84.1,34.9c0-1-0.4-1.9-1.1-2.7c-1.5-1.5-3.9-1.5-5.3,0L50,59.9L22.4,32.3c-1.5-1.5-3.9-1.5-5.3,0c-1.5,1.5-1.5,3.9,0,5.3   l30.3,30.3c1.5,1.5,3.9,1.5,5.3,0L83,37.6C83.7,36.9,84.1,35.9,84.1,34.9z"/></g><text x="0" y="115" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text><text x="0" y="120" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text></svg>
                 </span>
                 <span class="upward">
-                  <svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 96 120" x="0px" y="0px"><title>arrowsArtboard 74</title><path d="M23.24,66.24,48,41.49,72.76,66.24a6,6,0,0,0,8.48-8.48l-29-29a6,6,0,0,0-8.48,0l-29,29a6,6,0,0,0,8.48,8.48Z"/><text x="0" y="111" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text><text x="0" y="116" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text></svg>
+                  <svg class="z-5" xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 96 120" x="0px" y="0px"><title>arrowsArtboard 74</title><path d="M23.24,66.24,48,41.49,72.76,66.24a6,6,0,0,0,8.48-8.48l-29-29a6,6,0,0,0-8.48,0l-29,29a6,6,0,0,0,8.48,8.48Z"/><text x="0" y="111" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text><text x="0" y="116" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text></svg>
                 </span>
               </div>
               <div class="border-content">
@@ -203,20 +203,18 @@ export default {
 
 <style scoped>
 .part-six{
-  max-width: 100%;
   height: auto;
   padding: 2rem 0;
   background-color: #64748b;
 }
 .part-control{
-  margin: 0 4rem;
+  max-width: 95rem;
+  margin: auto;
   padding: 0 2rem;
   display: flex;
   align-items: center;
 }
 .card-box{
-  width: 100%;
-  height: auto;
   background-color: #ffff;
   padding: 0 1rem 1rem 1rem;
   display: flex;
@@ -224,8 +222,6 @@ export default {
   flex-direction: column;
 }
 .content-box{
-  width: 100%;
-  height: auto;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -249,16 +245,12 @@ strong{
   font-weight: bolder;
 }
 .content-container{
-  width: 100%;
-  height: auto;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
 }
 .button-container{
-  width:12%;
-  height: 3.9rem;
   padding: 1rem;
   border-radius: 15px;
   background-color: #475569;
@@ -280,6 +272,15 @@ strong{
 }
 .hide-content{
   /* display: none; */
+}
+.z-5{
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.z-6{
+  width: 2rem;
+  height: 2rem;
+  padding-top: .5rem;
 }
 .titr-six{
   margin-bottom: 1rem ;

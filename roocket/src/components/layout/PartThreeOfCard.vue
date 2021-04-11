@@ -494,7 +494,7 @@ TheSave scoped>
 }
 #new:hover ,
     :active{
-      background-color: #232a33;
+      background-color: #5e6e8a;
     }
 #login{
   width: 7rem;
@@ -503,6 +503,9 @@ TheSave scoped>
   color: #ffff;
   padding: .5rem;
   margin-top: .5rem;
+}
+#login:hover{
+  color:beige;
 }
 
 

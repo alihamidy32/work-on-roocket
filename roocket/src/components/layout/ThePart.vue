@@ -70,6 +70,10 @@ article{
   margin-bottom: 1rem;
   border-radius: 3rem;
 }
+.w-5{
+  width: 2rem;
+  height: 2rem;
+}
 #start:hover{
   background-color: yellow;
   color: #475569;

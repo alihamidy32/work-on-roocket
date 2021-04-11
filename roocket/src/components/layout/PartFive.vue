@@ -219,21 +219,19 @@ export default {
 
 <style scoped>
 .part-five{
-  width: auto;
-  height: 59rem;
+  height: auto;
   padding: 2rem 0;
   background-image: radial-gradient(farthest-corner at 90% 10% , rgb(255, 0, 191) , rgba(255, 8, 0, 0.671) , rgb(206, 160, 9));
 }
 .container-five{
-  margin: 0 2rem;
+  max-width: 95rem;
+  margin: auto;
   padding: 0 2rem;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
 }
 .card-container{
-  max-width: 100%;
-  height: auto;
   display: grid;
   grid-template-columns: repeat(4 , minmax(0 , 1fr));
   grid-gap: 1rem;
@@ -282,6 +280,8 @@ export default {
   font-size: medium;
 }
 #dot{
+  width: 1.5rem;
+  height: 1.5rem;
   position: absolute;
   top: .8rem;
   left: 1rem;
@@ -360,5 +360,23 @@ export default {
 #log{
   color: #ffff;
   font-weight:bolder;
+}
+
+
+
+@media screen and (max-width:69.125rem){
+  .card-container{
+  display: grid;
+  grid-template-columns: repeat(2 , minmax(0 , 1fr));
+  grid-gap: 1rem;
+  margin-top: 1rem;
+}
+}
+@media screen and (max-width:50.125rem){
+  .card-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
 }
 </style>

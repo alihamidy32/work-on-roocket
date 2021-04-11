@@ -1,20 +1,20 @@
 <template>
   <div>
-    <upper-header />
+    <the-navigation />
     <nav-bar />
     <the-part />
-    <the-article />
+    <the-ui />
   </div>
 </template>
 
 <script>
 import NavBar from './components/layout/NavBar.vue';
-import TheArticle from './components/layout/TheArticle.vue';
+import TheNavigation from './components/layout/TheNavigation.vue';
 import ThePart from './components/layout/ThePart.vue';
-import UpperHeader from './components/layout/UpperHeader.vue';
+import TheUi from './components/UI/TheUi.vue';
 
 export default {
-  components: { UpperHeader,  NavBar, TheArticle, ThePart},
+  components: {  NavBar,  ThePart, TheUi, TheNavigation},
 
 }
 </script>

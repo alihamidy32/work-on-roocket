@@ -9,206 +9,203 @@
           پادکست های اختصاصی طراحی و برنامه نویسی
         </p>
         <div class="card-container">
-          <div class="card-one">
-            <div class="img-container">
-                <svg id="podcast" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 80" x="0px" y="0px"><title>Artboard 23</title><g data-name="Layer 24"><path  d="M26,43H38a5,5,0,0,0,5-5V15a5,5,0,0,0-5-5H26a5,5,0,0,0-5,5V38A5,5,0,0,0,26,43ZM23,15a3,3,0,0,1,3-3H38a3,3,0,0,1,3,3V38a3,3,0,0,1-3,3H26a3,3,0,0,1-3-3ZM46,26V41.47A5.29,5.29,0,0,1,41,47H33V58h9a1,1,0,0,1,0,2H22a1,1,0,0,1,0-2h9V47H23a5.29,5.29,0,0,1-5-5.53V25a1,1,0,0,1,2,0V41.47A3.3,3.3,0,0,0,23,45H41a3.3,3.3,0,0,0,3-3.53V26a1,1,0,0,1,2,0ZM25,28V21a1,1,0,0,1,2,0v7a1,1,0,0,1-2,0Zm3-1V23a1,1,0,0,1,2,0v4a1,1,0,0,1-2,0Zm6,0V23a1,1,0,0,1,2,0v4a1,1,0,0,1-2,0Zm3,1V21a1,1,0,0,1,2,0v7a1,1,0,0,1-2,0Zm-6,4V16a1,1,0,0,1,2,0V32a1,1,0,0,1-2,0Z"/></g><text x="0" y="79" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text><text x="0" y="84" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text></svg>
-              <div class="img">
-              <img id="img" src="@/assets/frontpage.png" alt="vue">
-            </div>
-            </div>
-            <div class="article">
-              <span class="p-titr">
-                پادکست شماره 19
-              </span>
-              <span class="second-titr">
-                <a href="" id="second-titr">
-                  سیستم گواهی پایان دوره و تاییدیه کسب مهارت فنی راکت چطور کار میکنه
-                </a>
-              </span>
-              <p class="desc">
-                گواهی پایان دوره و کسب مهارت فنی موضوع آپدیت جدید راکت که در این راکت کست قصد دارم به شکل کامل اون رو توضیح بدم
-              </p>
-              <div class="tag">
-                <a href="" id="tag">
-                #آپدیت_جدید_سایت
-              </a>
-              </div>
-            </div>
-            <div class="end-card">
-              <div class="right-side">
-                <div class="like">
-                  <span class="number-of-like">
-                    22
-                  </span>
-                    <svg id="like" xmlns="http://www.w3.org/2000/svg" data-name="Layer 2" viewBox="0 0 24 30" x="0px" y="0px"><title>service</title><path d="M12,22a1,1,0,0,1-.691-.277L3.716,14.46a8.518,8.518,0,0,1-1.564-1.921A8.72,8.72,0,0,1,1,8.211,6.212,6.212,0,0,1,12,4.255,6.212,6.212,0,0,1,23,8.211a8.72,8.72,0,0,1-1.152,4.328,8.518,8.518,0,0,1-1.564,1.921l-7.593,7.263A1,1,0,0,1,12,22ZM7.211,4A4.216,4.216,0,0,0,3,8.211a6.72,6.72,0,0,0,.887,3.333A6.631,6.631,0,0,0,5.1,13.015l6.9,6.6,6.9-6.6a6.631,6.631,0,0,0,1,4Z,"/></svg>
-                </div>
-                <div class="comment">
-                  <span class="number-of-comment">
-                    102
-                  </span>
-                  <svg id="comment" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 30" x="0px" y="0px"><title>bussines, management, career, Chat, comment, message, communication</title><g><path d="M13,12a1,1,0,1,1-1-1A1,1,0,0,1,13,12Zm4-1a1,1,0,1,0,1,1A1,1,0,0,0,17,11ZM7,11a1,1,0,1,0,1,1A1,1,0,0,0,7,11Zm16,1A11.0125,11.0125,0,0,1,12,23a10.8582,10.8582,0,0,1-4.6768-1.0508l-4.08,1.02A.9781.9781,0,0,1,3,23a1.0007,1.0007,0,0,1-.9922-1.124l.5342-4.2735A10.997,10.997,0,1,1,23,12Zm-2,0A9,9,0,1,0,4.42,16.8379a.9973.9973,0,0,1,.15.6631l-.397,3.1748,3.0205-.7549a.9787.9787,0,0,1,.2427-.03,1.0008,1.0008,0,0,1,.4575.11A8.8918,8.8918,0,0,0,12,21,9.01,9.01,0,0,0,21,12Z"/></g><text x="0" y="39" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">Created by Kmg Design</text><text x="0" y="44" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">from the Noun Project</text></svg>
-                </div>
-              </div>
-              <div class="left-side">
-                <div class="clock">
-                  <span class="time">
-                    18:46:32
-                  </span>
-                  <svg id="clock" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" x="0px" y="0px" viewBox="0 0 100 125"><g transform="translate(0,-952.36218)"><path style="text-indent:0;text-transform:none;direction:ltr;block-progression:tb;baseline-shift:baseline;color:#000000;enable-background:accumulate;" d="m 50,971.36218 c -17.109,0 -31,13.8911 -31,31.00002 0,17.1087 13.891,31 31,31 17.109,0 31,-13.8913 31,-31 0,-17.10892 -13.891,-31.00002 -31,-31.00002 z m 0,2 c 16.0281,0 29,12.972 29,29.00002 0,16.0278 -12.9719,29 -29,29 -16.0281,0 -29,-12.9722 -29,-29 0,-16.02802 12.9719,-29.00002 29,-29.00002 z m 0,8 c -0.5523,0 -1,0.4477 -1,1 l 0,20.00002 c 0,0.2761 0.1004,0.5378 0.2813,0.7187 l 12.75,12.7188 c 0.3904,0.3905 1.0157,0.3905 1.4062,0 0.3904,-0.3906 0.3905,-1.0157 0,-1.4063 L 51,1001.9247 51,982.36218 c 0,-0.5523 -0.4477,-1 -1,-1 z" fill="#000000" fill-opacity="1" stroke="none" marker="none" visibility="visible" display="inline" overflow="visible"/></g><text x="0" y="115" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"> </text><text x="0" y="120" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text>
+          <div class="article">
+            <div class="wire">
+              <div class="h-4">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512" class="w-14 h-14 text-white text-opacity-90  ">
+                <path fill="currentColor" d="M80 256V96a96 96 0 0 1 192 0h-85.33c-5.89 0-10.67 3.58-10.67 8v16c0 4.42 4.78 8 10.67 8H272v32h-85.33c-5.89 0-10.67 3.58-10.67 8v16c0 4.42 4.78 8 10.67 8H272v32h-85.33c-5.89 0-10.67 3.58-10.67 8v16c0 4.42 4.78 8 10.67 8H272a96 96 0 0 1-192 0z" class="opacity-40"></path>
+                <path fill="currentColor" d="M186.67 128H272V96h-85.33c-5.89 0-10.67 3.58-10.67 8v16c0 4.42 4.78 8 10.67 8zm0 64H272v-32h-85.33c-5.89 0-10.67 3.58-10.67 8v16c0 4.42 4.78 8 10.67 8zM336 192h-16a16 16 0 0 0-16 16v48a128.15 128.15 0 0 1-140.79 127.38C96.71 376.89 48 317.11 48 250.3V208a16 16 0 0 0-16-16H16a16 16 0 0 0-16 16v40.16c0 89.64 64 169.55 152 181.69V464H96a16 16 0 0 0-16 16v16a16 16 0 0 0 16 16h160a16 16 0 0 0 16-16v-16a16 16 0 0 0-16-16h-56v-33.77C285.71 418.47 352 344.9 352 256v-48a16 16 0 0 0-16-16zm-149.33 64H272v-32h-85.33c-5.89 0-10.67 3.58-10.67 8v16c0 4.42 4.78 8 10.67 8z" class="fa-primary"></path>
                 </svg>
-                </div>
               </div>
+              <img src="@/assets/frontpage.png" alt="" class="img">
             </div>
-          </div>
-          <div class="card-one">
-            <div class="img-container">
-                <svg id="podcast" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 80" x="0px" y="0px"><title>Artboard 23</title><g data-name="Layer 24"><path  d="M26,43H38a5,5,0,0,0,5-5V15a5,5,0,0,0-5-5H26a5,5,0,0,0-5,5V38A5,5,0,0,0,26,43ZM23,15a3,3,0,0,1,3-3H38a3,3,0,0,1,3,3V38a3,3,0,0,1-3,3H26a3,3,0,0,1-3-3ZM46,26V41.47A5.29,5.29,0,0,1,41,47H33V58h9a1,1,0,0,1,0,2H22a1,1,0,0,1,0-2h9V47H23a5.29,5.29,0,0,1-5-5.53V25a1,1,0,0,1,2,0V41.47A3.3,3.3,0,0,0,23,45H41a3.3,3.3,0,0,0,3-3.53V26a1,1,0,0,1,2,0ZM25,28V21a1,1,0,0,1,2,0v7a1,1,0,0,1-2,0Zm3-1V23a1,1,0,0,1,2,0v4a1,1,0,0,1-2,0Zm6,0V23a1,1,0,0,1,2,0v4a1,1,0,0,1-2,0Zm3,1V21a1,1,0,0,1,2,0v7a1,1,0,0,1-2,0Zm-6,4V16a1,1,0,0,1,2,0V32a1,1,0,0,1-2,0Z"/></g><text x="0" y="79" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text><text x="0" y="84" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text></svg>
-              <div class="img">
-              <img id="img" src="@/assets/frontpage.png" alt="vue">
-            </div>
-            </div>
-            <div class="article">
-              <span class="p-titr">
-                پادکست شماره 19
-              </span>
-              <span class="second-titr">
-                <a href="" id="second-titr">
-                  سیستم گواهی پایان دوره و تاییدیه کسب مهارت فنی راکت چطور کار میکنه
+            <div class="cards-pattern">
+              <div class="pattern">
+                <span class="card-title">
+                  پادکست شماره 19
+                </span>
+                <h2 class="card-titr">
+                  <a href="" id="card-titr">
+                    سیستم گواهی پایان دوره و تاییدیه کسب مهارت فنی راکت چطور کار میکنه
+                  </a>
+                </h2>
+                <p class="card-parag">
+                  گواهی پایان دوره و تاییدیه کسب مهارت فنی موضوع آپدیت جدید راکت که در این راکت‌کست قصد دارم به شکل کامل اون رو توضیح بدم
+                </p>
+                <span class="tag">
+                  <a href="" class="card-tag">
+                  #آپدیت_جدید_سایت
                 </a>
-              </span>
-              <p class="desc">
-                گواهی پایان دوره و کسب مهارت فنی موضوع آپدیت جدید راکت که در این راکت کست قصد دارم به شکل کامل اون رو توضیح بدم
-              </p>
-              <div class="tag">
-                <a href="" id="tag">
-                #آپدیت_جدید_سایت
-              </a>
+                </span>
+              </div>
+              <div class="part-c">
+                <div class="c-content">
+                 <div class="one-c">
+                   <div class="like-heart">
+                     <span class="like-num">38</span>
+                     <svg viewBox="0 0 24 24" stroke="currentColor" fill="none" class="w-5 f-5 h-6 hover:text-red-500 cursor-pointer " wire:click="like" data-v-7f25fd46=""><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" data-v-7f25fd46=""></path></svg>
+                   </div>
+                   <div class="comment-num">
+                     <span class="like-num">64</span>
+                     <svg fill="none" viewBox="0 0 22 22" stroke="currentColor" class="w-5 h-6" data-v-7f25fd46=""><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" data-v-7f25fd46=""></path></svg>
+                   </div>
+                 </div>
+                 <div class="clock">
+                   <span class="like-num">13:45:06</span>
+                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="currentColor" class="w-10 h-10">
+                    <path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z" class=""></path>
+                    </svg>
+                 </div>
+                </div>
               </div>
             </div>
-            <div class="end-card">
-              <div class="right-side">
-                <div class="like">
-                  <span class="number-of-like">
-                    22
-                  </span>
-                    <svg id="like" xmlns="http://www.w3.org/2000/svg" data-name="Layer 2" viewBox="0 0 24 30" x="0px" y="0px"><title>service</title><path d="M12,22a1,1,0,0,1-.691-.277L3.716,14.46a8.518,8.518,0,0,1-1.564-1.921A8.72,8.72,0,0,1,1,8.211,6.212,6.212,0,0,1,12,4.255,6.212,6.212,0,0,1,23,8.211a8.72,8.72,0,0,1-1.152,4.328,8.518,8.518,0,0,1-1.564,1.921l-7.593,7.263A1,1,0,0,1,12,22ZM7.211,4A4.216,4.216,0,0,0,3,8.211a6.72,6.72,0,0,0,.887,3.333A6.631,6.631,0,0,0,5.1,13.015l6.9,6.6,6.9-6.6a6.631,6.631,0,0,0,1,4Z,"/></svg>
-                </div>
-                <div class="comment">
-                  <span class="number-of-comment">
-                    102
-                  </span>
-                  <svg id="comment" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 30" x="0px" y="0px"><title>bussines, management, career, Chat, comment, message, communication</title><g><path d="M13,12a1,1,0,1,1-1-1A1,1,0,0,1,13,12Zm4-1a1,1,0,1,0,1,1A1,1,0,0,0,17,11ZM7,11a1,1,0,1,0,1,1A1,1,0,0,0,7,11Zm16,1A11.0125,11.0125,0,0,1,12,23a10.8582,10.8582,0,0,1-4.6768-1.0508l-4.08,1.02A.9781.9781,0,0,1,3,23a1.0007,1.0007,0,0,1-.9922-1.124l.5342-4.2735A10.997,10.997,0,1,1,23,12Zm-2,0A9,9,0,1,0,4.42,16.8379a.9973.9973,0,0,1,.15.6631l-.397,3.1748,3.0205-.7549a.9787.9787,0,0,1,.2427-.03,1.0008,1.0008,0,0,1,.4575.11A8.8918,8.8918,0,0,0,12,21,9.01,9.01,0,0,0,21,12Z"/></g><text x="0" y="39" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">Created by Kmg Design</text><text x="0" y="44" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">from the Noun Project</text></svg>
-                </div>
-              </div>
-              <div class="left-side">
-                <div class="clock">
-                  <span class="time">
-                    18:46:32
-                  </span>
-                  <svg id="clock" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" x="0px" y="0px" viewBox="0 0 100 125"><g transform="translate(0,-952.36218)"><path style="text-indent:0;text-transform:none;direction:ltr;block-progression:tb;baseline-shift:baseline;color:#000000;enable-background:accumulate;" d="m 50,971.36218 c -17.109,0 -31,13.8911 -31,31.00002 0,17.1087 13.891,31 31,31 17.109,0 31,-13.8913 31,-31 0,-17.10892 -13.891,-31.00002 -31,-31.00002 z m 0,2 c 16.0281,0 29,12.972 29,29.00002 0,16.0278 -12.9719,29 -29,29 -16.0281,0 -29,-12.9722 -29,-29 0,-16.02802 12.9719,-29.00002 29,-29.00002 z m 0,8 c -0.5523,0 -1,0.4477 -1,1 l 0,20.00002 c 0,0.2761 0.1004,0.5378 0.2813,0.7187 l 12.75,12.7188 c 0.3904,0.3905 1.0157,0.3905 1.4062,0 0.3904,-0.3906 0.3905,-1.0157 0,-1.4063 L 51,1001.9247 51,982.36218 c 0,-0.5523 -0.4477,-1 -1,-1 z" fill="#000000" fill-opacity="1" stroke="none" marker="none" visibility="visible" display="inline" overflow="visible"/></g><text x="0" y="115" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"> </text><text x="0" y="120" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text>
+          </div><div class="article">
+            <div class="wire">
+              <div class="h-4">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512" class="w-14 h-14 text-white text-opacity-90  ">
+                <path fill="currentColor" d="M80 256V96a96 96 0 0 1 192 0h-85.33c-5.89 0-10.67 3.58-10.67 8v16c0 4.42 4.78 8 10.67 8H272v32h-85.33c-5.89 0-10.67 3.58-10.67 8v16c0 4.42 4.78 8 10.67 8H272v32h-85.33c-5.89 0-10.67 3.58-10.67 8v16c0 4.42 4.78 8 10.67 8H272a96 96 0 0 1-192 0z" class="opacity-40"></path>
+                <path fill="currentColor" d="M186.67 128H272V96h-85.33c-5.89 0-10.67 3.58-10.67 8v16c0 4.42 4.78 8 10.67 8zm0 64H272v-32h-85.33c-5.89 0-10.67 3.58-10.67 8v16c0 4.42 4.78 8 10.67 8zM336 192h-16a16 16 0 0 0-16 16v48a128.15 128.15 0 0 1-140.79 127.38C96.71 376.89 48 317.11 48 250.3V208a16 16 0 0 0-16-16H16a16 16 0 0 0-16 16v40.16c0 89.64 64 169.55 152 181.69V464H96a16 16 0 0 0-16 16v16a16 16 0 0 0 16 16h160a16 16 0 0 0 16-16v-16a16 16 0 0 0-16-16h-56v-33.77C285.71 418.47 352 344.9 352 256v-48a16 16 0 0 0-16-16zm-149.33 64H272v-32h-85.33c-5.89 0-10.67 3.58-10.67 8v16c0 4.42 4.78 8 10.67 8z" class="fa-primary"></path>
                 </svg>
-                </div>
               </div>
+              <img src="@/assets/frontpage.png" alt="" class="img">
             </div>
-          </div>
-          <div class="card-one">
-            <div class="img-container">
-                <svg id="podcast" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 80" x="0px" y="0px"><title>Artboard 23</title><g data-name="Layer 24"><path  d="M26,43H38a5,5,0,0,0,5-5V15a5,5,0,0,0-5-5H26a5,5,0,0,0-5,5V38A5,5,0,0,0,26,43ZM23,15a3,3,0,0,1,3-3H38a3,3,0,0,1,3,3V38a3,3,0,0,1-3,3H26a3,3,0,0,1-3-3ZM46,26V41.47A5.29,5.29,0,0,1,41,47H33V58h9a1,1,0,0,1,0,2H22a1,1,0,0,1,0-2h9V47H23a5.29,5.29,0,0,1-5-5.53V25a1,1,0,0,1,2,0V41.47A3.3,3.3,0,0,0,23,45H41a3.3,3.3,0,0,0,3-3.53V26a1,1,0,0,1,2,0ZM25,28V21a1,1,0,0,1,2,0v7a1,1,0,0,1-2,0Zm3-1V23a1,1,0,0,1,2,0v4a1,1,0,0,1-2,0Zm6,0V23a1,1,0,0,1,2,0v4a1,1,0,0,1-2,0Zm3,1V21a1,1,0,0,1,2,0v7a1,1,0,0,1-2,0Zm-6,4V16a1,1,0,0,1,2,0V32a1,1,0,0,1-2,0Z"/></g><text x="0" y="79" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text><text x="0" y="84" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text></svg>
-              <div class="img">
-              <img id="img" src="@/assets/frontpage.png" alt="vue">
-            </div>
-            </div>
-            <div class="article">
-              <span class="p-titr">
-                پادکست شماره 19
-              </span>
-              <span class="second-titr">
-                <a href="" id="second-titr">
-                  سیستم گواهی پایان دوره و تاییدیه کسب مهارت فنی راکت چطور کار میکنه
+            <div class="cards-pattern">
+              <div class="pattern">
+                <span class="card-title">
+                  پادکست شماره 19
+                </span>
+                <h2 class="card-titr">
+                  <a href="" id="card-titr">
+                    سیستم گواهی پایان دوره و تاییدیه کسب مهارت فنی راکت چطور کار میکنه
+                  </a>
+                </h2>
+                <p class="card-parag">
+                  گواهی پایان دوره و تاییدیه کسب مهارت فنی موضوع آپدیت جدید راکت که در این راکت‌کست قصد دارم به شکل کامل اون رو توضیح بدم
+                </p>
+                <span class="tag">
+                  <a href="" class="card-tag">
+                  #آپدیت_جدید_سایت
                 </a>
-              </span>
-              <p class="desc">
-                گواهی پایان دوره و کسب مهارت فنی موضوع آپدیت جدید راکت که در این راکت کست قصد دارم به شکل کامل اون رو توضیح بدم
-              </p>
-              <div class="tag">
-                <a href="" id="tag">
-                #آپدیت_جدید_سایت
-              </a>
+                </span>
+              </div>
+              <div class="part-c">
+                <div class="c-content">
+                 <div class="one-c">
+                   <div class="like-heart">
+                     <span class="like-num">38</span>
+                     <svg viewBox="0 0 24 24" stroke="currentColor" fill="none" class="w-5 f-5 h-6 hover:text-red-500 cursor-pointer " wire:click="like" data-v-7f25fd46=""><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" data-v-7f25fd46=""></path></svg>
+                   </div>
+                   <div class="comment-num">
+                     <span class="like-num">64</span>
+                     <svg fill="none" viewBox="0 0 22 22" stroke="currentColor" class="w-5 h-6" data-v-7f25fd46=""><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" data-v-7f25fd46=""></path></svg>
+                   </div>
+                 </div>
+                 <div class="clock">
+                   <span class="like-num">13:45:06</span>
+                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="currentColor" class="w-10 h-10">
+                    <path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z" class=""></path>
+                    </svg>
+                 </div>
+                </div>
               </div>
             </div>
-            <div class="end-card">
-              <div class="right-side">
-                <div class="like">
-                  <span class="number-of-like">
-                    22
-                  </span>
-                    <svg id="like" xmlns="http://www.w3.org/2000/svg" data-name="Layer 2" viewBox="0 0 24 30" x="0px" y="0px"><title>service</title><path d="M12,22a1,1,0,0,1-.691-.277L3.716,14.46a8.518,8.518,0,0,1-1.564-1.921A8.72,8.72,0,0,1,1,8.211,6.212,6.212,0,0,1,12,4.255,6.212,6.212,0,0,1,23,8.211a8.72,8.72,0,0,1-1.152,4.328,8.518,8.518,0,0,1-1.564,1.921l-7.593,7.263A1,1,0,0,1,12,22ZM7.211,4A4.216,4.216,0,0,0,3,8.211a6.72,6.72,0,0,0,.887,3.333A6.631,6.631,0,0,0,5.1,13.015l6.9,6.6,6.9-6.6a6.631,6.631,0,0,0,1,4Z,"/></svg>
-                </div>
-                <div class="comment">
-                  <span class="number-of-comment">
-                    102
-                  </span>
-                  <svg id="comment" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 30" x="0px" y="0px"><title>bussines, management, career, Chat, comment, message, communication</title><g><path d="M13,12a1,1,0,1,1-1-1A1,1,0,0,1,13,12Zm4-1a1,1,0,1,0,1,1A1,1,0,0,0,17,11ZM7,11a1,1,0,1,0,1,1A1,1,0,0,0,7,11Zm16,1A11.0125,11.0125,0,0,1,12,23a10.8582,10.8582,0,0,1-4.6768-1.0508l-4.08,1.02A.9781.9781,0,0,1,3,23a1.0007,1.0007,0,0,1-.9922-1.124l.5342-4.2735A10.997,10.997,0,1,1,23,12Zm-2,0A9,9,0,1,0,4.42,16.8379a.9973.9973,0,0,1,.15.6631l-.397,3.1748,3.0205-.7549a.9787.9787,0,0,1,.2427-.03,1.0008,1.0008,0,0,1,.4575.11A8.8918,8.8918,0,0,0,12,21,9.01,9.01,0,0,0,21,12Z"/></g><text x="0" y="39" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">Created by Kmg Design</text><text x="0" y="44" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">from the Noun Project</text></svg>
-                </div>
-              </div>
-              <div class="left-side">
-                <div class="clock">
-                  <span class="time">
-                    18:46:32
-                  </span>
-                  <svg id="clock" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" x="0px" y="0px" viewBox="0 0 100 125"><g transform="translate(0,-952.36218)"><path style="text-indent:0;text-transform:none;direction:ltr;block-progression:tb;baseline-shift:baseline;color:#000000;enable-background:accumulate;" d="m 50,971.36218 c -17.109,0 -31,13.8911 -31,31.00002 0,17.1087 13.891,31 31,31 17.109,0 31,-13.8913 31,-31 0,-17.10892 -13.891,-31.00002 -31,-31.00002 z m 0,2 c 16.0281,0 29,12.972 29,29.00002 0,16.0278 -12.9719,29 -29,29 -16.0281,0 -29,-12.9722 -29,-29 0,-16.02802 12.9719,-29.00002 29,-29.00002 z m 0,8 c -0.5523,0 -1,0.4477 -1,1 l 0,20.00002 c 0,0.2761 0.1004,0.5378 0.2813,0.7187 l 12.75,12.7188 c 0.3904,0.3905 1.0157,0.3905 1.4062,0 0.3904,-0.3906 0.3905,-1.0157 0,-1.4063 L 51,1001.9247 51,982.36218 c 0,-0.5523 -0.4477,-1 -1,-1 z" fill="#000000" fill-opacity="1" stroke="none" marker="none" visibility="visible" display="inline" overflow="visible"/></g><text x="0" y="115" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"> </text><text x="0" y="120" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text>
+          </div><div class="article">
+            <div class="wire">
+              <div class="h-4">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512" class="w-14 h-14 text-white text-opacity-90  ">
+                <path fill="currentColor" d="M80 256V96a96 96 0 0 1 192 0h-85.33c-5.89 0-10.67 3.58-10.67 8v16c0 4.42 4.78 8 10.67 8H272v32h-85.33c-5.89 0-10.67 3.58-10.67 8v16c0 4.42 4.78 8 10.67 8H272v32h-85.33c-5.89 0-10.67 3.58-10.67 8v16c0 4.42 4.78 8 10.67 8H272a96 96 0 0 1-192 0z" class="opacity-40"></path>
+                <path fill="currentColor" d="M186.67 128H272V96h-85.33c-5.89 0-10.67 3.58-10.67 8v16c0 4.42 4.78 8 10.67 8zm0 64H272v-32h-85.33c-5.89 0-10.67 3.58-10.67 8v16c0 4.42 4.78 8 10.67 8zM336 192h-16a16 16 0 0 0-16 16v48a128.15 128.15 0 0 1-140.79 127.38C96.71 376.89 48 317.11 48 250.3V208a16 16 0 0 0-16-16H16a16 16 0 0 0-16 16v40.16c0 89.64 64 169.55 152 181.69V464H96a16 16 0 0 0-16 16v16a16 16 0 0 0 16 16h160a16 16 0 0 0 16-16v-16a16 16 0 0 0-16-16h-56v-33.77C285.71 418.47 352 344.9 352 256v-48a16 16 0 0 0-16-16zm-149.33 64H272v-32h-85.33c-5.89 0-10.67 3.58-10.67 8v16c0 4.42 4.78 8 10.67 8z" class="fa-primary"></path>
                 </svg>
-                </div>
               </div>
+              <img src="@/assets/frontpage.png" alt="" class="img">
             </div>
-          </div>
-          <div class="card-one">
-            <div class="img-container">
-                <svg id="podcast" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 80" x="0px" y="0px"><title>Artboard 23</title><g data-name="Layer 24"><path  d="M26,43H38a5,5,0,0,0,5-5V15a5,5,0,0,0-5-5H26a5,5,0,0,0-5,5V38A5,5,0,0,0,26,43ZM23,15a3,3,0,0,1,3-3H38a3,3,0,0,1,3,3V38a3,3,0,0,1-3,3H26a3,3,0,0,1-3-3ZM46,26V41.47A5.29,5.29,0,0,1,41,47H33V58h9a1,1,0,0,1,0,2H22a1,1,0,0,1,0-2h9V47H23a5.29,5.29,0,0,1-5-5.53V25a1,1,0,0,1,2,0V41.47A3.3,3.3,0,0,0,23,45H41a3.3,3.3,0,0,0,3-3.53V26a1,1,0,0,1,2,0ZM25,28V21a1,1,0,0,1,2,0v7a1,1,0,0,1-2,0Zm3-1V23a1,1,0,0,1,2,0v4a1,1,0,0,1-2,0Zm6,0V23a1,1,0,0,1,2,0v4a1,1,0,0,1-2,0Zm3,1V21a1,1,0,0,1,2,0v7a1,1,0,0,1-2,0Zm-6,4V16a1,1,0,0,1,2,0V32a1,1,0,0,1-2,0Z"/></g><text x="0" y="79" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text><text x="0" y="84" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text></svg>
-              <div class="img">
-              <img id="img" src="@/assets/frontpage.png" alt="vue">
-            </div>
-            </div>
-            <div class="article">
-              <span class="p-titr">
-                پادکست شماره 19
-              </span>
-              <span class="second-titr">
-                <a href="" id="second-titr">
-                  سیستم گواهی پایان دوره و تاییدیه کسب مهارت فنی راکت چطور کار میکنه
+            <div class="cards-pattern">
+              <div class="pattern">
+                <span class="card-title">
+                  پادکست شماره 19
+                </span>
+                <h2 class="card-titr">
+                  <a href="" id="card-titr">
+                    سیستم گواهی پایان دوره و تاییدیه کسب مهارت فنی راکت چطور کار میکنه
+                  </a>
+                </h2>
+                <p class="card-parag">
+                  گواهی پایان دوره و تاییدیه کسب مهارت فنی موضوع آپدیت جدید راکت که در این راکت‌کست قصد دارم به شکل کامل اون رو توضیح بدم
+                </p>
+                <span class="tag">
+                  <a href="" class="card-tag">
+                  #آپدیت_جدید_سایت
                 </a>
-              </span>
-              <p class="desc">
-                گواهی پایان دوره و کسب مهارت فنی موضوع آپدیت جدید راکت که در این راکت کست قصد دارم به شکل کامل اون رو توضیح بدم
-              </p>
-              <div class="tag">
-                <a href="" id="tag">
-                #آپدیت_جدید_سایت
-              </a>
+                </span>
+              </div>
+              <div class="part-c">
+                <div class="c-content">
+                 <div class="one-c">
+                   <div class="like-heart">
+                     <span class="like-num">38</span>
+                     <svg viewBox="0 0 24 24" stroke="currentColor" fill="none" class="w-5 f-5 h-6 hover:text-red-500 cursor-pointer " wire:click="like" data-v-7f25fd46=""><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" data-v-7f25fd46=""></path></svg>
+                   </div>
+                   <div class="comment-num">
+                     <span class="like-num">64</span>
+                     <svg fill="none" viewBox="0 0 22 22" stroke="currentColor" class="w-5 h-6" data-v-7f25fd46=""><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" data-v-7f25fd46=""></path></svg>
+                   </div>
+                 </div>
+                 <div class="clock">
+                   <span class="like-num">13:45:06</span>
+                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="currentColor" class="w-10 h-10">
+                    <path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z" class=""></path>
+                    </svg>
+                 </div>
+                </div>
               </div>
             </div>
-            <div class="end-card">
-              <div class="right-side">
-                <div class="like">
-                  <span class="number-of-like">
-                    22
-                  </span>
-                    <svg id="like" xmlns="http://www.w3.org/2000/svg" data-name="Layer 2" viewBox="0 0 24 30" x="0px" y="0px"><title>service</title><path d="M12,22a1,1,0,0,1-.691-.277L3.716,14.46a8.518,8.518,0,0,1-1.564-1.921A8.72,8.72,0,0,1,1,8.211,6.212,6.212,0,0,1,12,4.255,6.212,6.212,0,0,1,23,8.211a8.72,8.72,0,0,1-1.152,4.328,8.518,8.518,0,0,1-1.564,1.921l-7.593,7.263A1,1,0,0,1,12,22ZM7.211,4A4.216,4.216,0,0,0,3,8.211a6.72,6.72,0,0,0,.887,3.333A6.631,6.631,0,0,0,5.1,13.015l6.9,6.6,6.9-6.6a6.631,6.631,0,0,0,1,4Z,"/></svg>
-                </div>
-                <div class="comment">
-                  <span class="number-of-comment">
-                    102
-                  </span>
-                  <svg id="comment" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 30" x="0px" y="0px"><title>bussines, management, career, Chat, comment, message, communication</title><g><path d="M13,12a1,1,0,1,1-1-1A1,1,0,0,1,13,12Zm4-1a1,1,0,1,0,1,1A1,1,0,0,0,17,11ZM7,11a1,1,0,1,0,1,1A1,1,0,0,0,7,11Zm16,1A11.0125,11.0125,0,0,1,12,23a10.8582,10.8582,0,0,1-4.6768-1.0508l-4.08,1.02A.9781.9781,0,0,1,3,23a1.0007,1.0007,0,0,1-.9922-1.124l.5342-4.2735A10.997,10.997,0,1,1,23,12Zm-2,0A9,9,0,1,0,4.42,16.8379a.9973.9973,0,0,1,.15.6631l-.397,3.1748,3.0205-.7549a.9787.9787,0,0,1,.2427-.03,1.0008,1.0008,0,0,1,.4575.11A8.8918,8.8918,0,0,0,12,21,9.01,9.01,0,0,0,21,12Z"/></g><text x="0" y="39" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">Created by Kmg Design</text><text x="0" y="44" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">from the Noun Project</text></svg>
-                </div>
-              </div>
-              <div class="left-side">
-                <div class="clock">
-                  <span class="time">
-                    18:46:32
-                  </span>
-                  <svg id="clock" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" x="0px" y="0px" viewBox="0 0 100 125"><g transform="translate(0,-952.36218)"><path style="text-indent:0;text-transform:none;direction:ltr;block-progression:tb;baseline-shift:baseline;color:#000000;enable-background:accumulate;" d="m 50,971.36218 c -17.109,0 -31,13.8911 -31,31.00002 0,17.1087 13.891,31 31,31 17.109,0 31,-13.8913 31,-31 0,-17.10892 -13.891,-31.00002 -31,-31.00002 z m 0,2 c 16.0281,0 29,12.972 29,29.00002 0,16.0278 -12.9719,29 -29,29 -16.0281,0 -29,-12.9722 -29,-29 0,-16.02802 12.9719,-29.00002 29,-29.00002 z m 0,8 c -0.5523,0 -1,0.4477 -1,1 l 0,20.00002 c 0,0.2761 0.1004,0.5378 0.2813,0.7187 l 12.75,12.7188 c 0.3904,0.3905 1.0157,0.3905 1.4062,0 0.3904,-0.3906 0.3905,-1.0157 0,-1.4063 L 51,1001.9247 51,982.36218 c 0,-0.5523 -0.4477,-1 -1,-1 z" fill="#000000" fill-opacity="1" stroke="none" marker="none" visibility="visible" display="inline" overflow="visible"/></g><text x="0" y="115" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"> </text><text x="0" y="120" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"></text>
+          </div><div class="article">
+            <div class="wire">
+              <div class="h-4">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512" class="w-14 h-14 text-white text-opacity-90  ">
+                <path fill="currentColor" d="M80 256V96a96 96 0 0 1 192 0h-85.33c-5.89 0-10.67 3.58-10.67 8v16c0 4.42 4.78 8 10.67 8H272v32h-85.33c-5.89 0-10.67 3.58-10.67 8v16c0 4.42 4.78 8 10.67 8H272v32h-85.33c-5.89 0-10.67 3.58-10.67 8v16c0 4.42 4.78 8 10.67 8H272a96 96 0 0 1-192 0z" class="opacity-40"></path>
+                <path fill="currentColor" d="M186.67 128H272V96h-85.33c-5.89 0-10.67 3.58-10.67 8v16c0 4.42 4.78 8 10.67 8zm0 64H272v-32h-85.33c-5.89 0-10.67 3.58-10.67 8v16c0 4.42 4.78 8 10.67 8zM336 192h-16a16 16 0 0 0-16 16v48a128.15 128.15 0 0 1-140.79 127.38C96.71 376.89 48 317.11 48 250.3V208a16 16 0 0 0-16-16H16a16 16 0 0 0-16 16v40.16c0 89.64 64 169.55 152 181.69V464H96a16 16 0 0 0-16 16v16a16 16 0 0 0 16 16h160a16 16 0 0 0 16-16v-16a16 16 0 0 0-16-16h-56v-33.77C285.71 418.47 352 344.9 352 256v-48a16 16 0 0 0-16-16zm-149.33 64H272v-32h-85.33c-5.89 0-10.67 3.58-10.67 8v16c0 4.42 4.78 8 10.67 8z" class="fa-primary"></path>
                 </svg>
+              </div>
+              <img src="@/assets/frontpage.png" alt="" class="img">
+            </div>
+            <div class="cards-pattern">
+              <div class="pattern">
+                <span class="card-title">
+                  پادکست شماره 19
+                </span>
+                <h2 class="card-titr">
+                  <a href="" id="card-titr">
+                    سیستم گواهی پایان دوره و تاییدیه کسب مهارت فنی راکت چطور کار میکنه
+                  </a>
+                </h2>
+                <p class="card-parag">
+                  گواهی پایان دوره و تاییدیه کسب مهارت فنی موضوع آپدیت جدید راکت که در این راکت‌کست قصد دارم به شکل کامل اون رو توضیح بدم
+                </p>
+                <span class="tag">
+                  <a href="" class="card-tag">
+                  #آپدیت_جدید_سایت
+                </a>
+                </span>
+              </div>
+              <div class="part-c">
+                <div class="c-content">
+                 <div class="one-c">
+                   <div class="like-heart">
+                     <span class="like-num">38</span>
+                     <svg viewBox="0 0 24 24" stroke="currentColor" fill="none" class="w-5 f-5 h-6 hover:text-red-500 cursor-pointer " wire:click="like" data-v-7f25fd46=""><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" data-v-7f25fd46=""></path></svg>
+                   </div>
+                   <div class="comment-num">
+                     <span class="like-num">64</span>
+                     <svg fill="none" viewBox="0 0 22 22" stroke="currentColor" class="w-5 h-6" data-v-7f25fd46=""><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" data-v-7f25fd46=""></path></svg>
+                   </div>
+                 </div>
+                 <div class="clock">
+                   <span class="like-num">13:45:06</span>
+                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="currentColor" class="w-10 h-10">
+                    <path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z" class=""></path>
+                    </svg>
+                 </div>
                 </div>
               </div>
             </div>
@@ -237,14 +234,13 @@ export default {
 
 <style scoped>
 .part-four{
-  width: auto;
-  height: 53rem;
   background-image:linear-gradient( rgba(59, 57, 57, 0.582) , white) ;
   padding: 2rem 0 ;
 }
 .container-four{
+  max-width: 95rem;
   padding: 0 2rem;
-  margin: 0 2rem;
+  margin: auto;
   display: flex;
   flex-direction: column;
 }
@@ -256,136 +252,127 @@ export default {
   color: #64748b;
 }
 .card-container{
-  width: auto;
   display: grid;
   grid-template-columns: repeat(4 , minmax(0 , 1fr));
   gap: 1rem;
   align-items: center;
   margin-top: 1rem
 }
-.card-one{
-  width: auto;
-  height: auto;
-  background-color: #ffff;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  border-radius: 10px;
-}
-.img-container{
-  width: auto;
-  height: auto;
-  margin: 1rem;
-  display: flex;
-  align-items: center;
-  align-content: center;
+.wire{
   position: relative;
+  margin: 1rem;
+  overflow: hidden;
 }
-.img{
+.h-4{
+  position: absolute;
+  width: 100%;
+  height: 100%;
   display: flex;
-  justify-content: space-around;
-  align-items: center;
-  width: auto;
+  justify-content: center;
+  opacity: .3;
 }
-#img{
-  width:20rem ;
-  height: 15rem;
-}
-#podcast{
-  width: 5rem;
-  height: 5rem;
+.w-14{
+  width: 3.5rem;
+  height: 3.5rem;
   position:absolute;
   top:50%;
   left:50%;
   transform:translate(-60%, -60%);
+
+}
+.img{
+  display: flex;
+  justify-content: space-between;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
 }
 .article{
-  padding: 0 1rem;
-  margin-bottom: 1rem;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  border-radius: 15px;
+  background-color: #ffff;
+}
+.cards-pattern{
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  flex-grow: 1;
 }
-.p-titr{
-  font-size: medium;
-  color: rgb(26, 128, 187);
+.pattern{
+  padding: 0 1rem;
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
 }
-.second-titr{
+.card-title{
+  color: #3b82f6;
+  font-size: small;
+}
+.card-titr{
   margin-top: 1rem;
 }
-#second-titr{
-  font-size: x-large;
-  color: #334155;
+#card-titr{
+  font-size: 1.3rem;
   text-decoration: none;
-}
-#second-titr:hover ,
-            :active{
-              text-decoration: underline;
-            }
-.desc{
-  margin-top: .5rem;
   color: #334155;
 }
-#tag{
-  text-decoration: none;
-  padding: .5rem;
+#card-titr:hover{
+  text-decoration: underline;
+}
+.card-parag{
+  margin-top: 1rem;
   color: #64748b;
+  opacity: .7;
 }
-.tag{
-  margin-top: .5rem;
+.card-tag{
+  text-decoration: none;
+  color: #64748b;
+  opacity: .9;
 }
-.end-card{
+.part-c{
+  padding: 0 .7rem 1rem .7rem;
+}
+.c-content{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  align-content: center;
-  padding: 0 1rem 1rem 1rem;
 }
-.right-side{
+.one-c{
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
-.left-side{
+.like-heart{
   display: flex;
+  justify-content: space-between;
   align-items: center;
 }
-.like{
+.comment-num{
   display: flex;
-  align-items: center;
-}
-.number-of-like{
-  padding-top: .5rem;
-  align-self: center;
-}
-#like{
-  margin-right: .5rem;
-}
-.comment{
-  display: flex;
+  justify-content: space-between;
   align-items: center;
   margin-right: .5rem;
+}
+.like-num{
+  padding-top:.5rem
 }
 .clock{
   display: flex;
+  justify-content: space-between;
   align-items: center;
 }
-.number-of-comment{
-  padding-top: .5rem;
-  align-self: center;
-}
-#comment{
+.w-10{
+  width: 1.5rem;
+  height: 1.5rem;
   margin-right: .5rem;
 }
-#clock{
-  width: 2.5rem;
-  height: 2.5rem;
-  margin-right: .5rem;
+.parag{
+  color:#64748b;
 }
 .last-part{
-  margin-top: 1rem;
-}
-.last-part{
+   margin-top: 1rem;
   display: flex;
   justify-content: space-between;
 }
@@ -394,9 +381,30 @@ export default {
  background-color: rgb(0, 162, 255);
  color: #ffff;
  font-size: small;
- width: auto;
- height: auto;
  border-radius: 10px;
  padding: .5rem;
+}
+
+
+@media screen and (max-width:69.125rem){
+  .card-container{
+  display: grid;
+  grid-template-columns: repeat(2 , minmax(0 , 1fr));
+  gap: 1rem;
+  align-items: center;
+  margin-top: 1rem
+}
+}
+
+@media screen and (max-width:50.125rem){
+   .card-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+  #button{
+width: fit-content;
+height: fit-content;
+}
 }
 </style>

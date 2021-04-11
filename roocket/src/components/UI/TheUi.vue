@@ -36,38 +36,7 @@ export default {
 }
 </script>
 
-<style scoped>
-.part-one{
-  width: 100%;
-  height: 35rem;
-  background-color: rgba(240, 230, 230, 0.555);
-  padding: .5rem 3rem 1rem;
-  
-}
-.container{
-  display: flex;
-  align-content: center;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-}
-#container-item{
-  margin-right: 7rem;
-  text-decoration: none;
-  font-size: x-large;
-  color: #475569;
-}
-#container-iteme{
-  margin-left: 7rem;
-  color: #334155;
-}
-.card{
-  position: relative;
-  top: 1rem;
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  flex-wrap: wrap;
-}
+<style >
+
 
 </style>
