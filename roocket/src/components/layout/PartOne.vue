@@ -398,22 +398,34 @@ img{
 }
 .c{
   display: flex;
+  align-items: center;
   justify-content: space-between;
 }
 .heart{
   display: flex;
   flex-direction: row-reverse;
   justify-content: space-between;
-  align-content: space-between;
+  justify-items: center;
+  align-items: center;
 }
 .f-5{
-  width: 1.5rem;
-  height: 1.5rem;
+  width: 1.3rem;
+  height: 1.3rem;
   margin-right: .5rem;
 }
 .clock{
   display: flex;
+  justify-content: space-between;
   align-items: center;
+}
+#cl{
+  align-self: center;
+  padding-top: .5rem;
+  margin-right: .5rem;
+}
+#num{
+  align-self: center;
+  padding-top: .5rem;
 }
 .w-6{
   width: 1.5rem;

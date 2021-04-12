@@ -202,6 +202,7 @@ export default {
 
   @media screen and (max-width:69.125rem){
     .footer-container{
+      padding: 3rem 0;
       display: flex;
       flex-direction: column;
       justify-content: space-between;

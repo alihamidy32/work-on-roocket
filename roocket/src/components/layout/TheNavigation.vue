@@ -62,7 +62,7 @@
         </div>
         <div class="signitem">
             <span >
-              <a href="#" id="signin">  عضویت </a>
+              <a  href="#" id="signin">  عضویت </a>
             </span>
             <span >
               <a href="#" id="login">ورود</a>
@@ -329,8 +329,7 @@ a{
     border-radius: 10px ;
     box-shadow: 2px 2px rgba(0, 0, 0, .2);
   }
-  #signin:hover,
-         :active{
+  #signin:hover{
            background-color: blue;
            color: white;
          }
@@ -344,11 +343,13 @@ a{
     border-radius: 10px ;
     box-shadow: 2px 2px rgba(0, 0, 0, .2);
   }
-  #login:hover,
-         :active{
+  #login:hover{
            background-color: rgb(255, 255, 255);
            color: rgb(0, 0, 0);
          }
+.input:focus{
+  outline: none;
+}
 .hum-btn{
   position: relative;
   display: flex;
